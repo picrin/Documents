@@ -1,0 +1,8 @@
+Docker is a computer program which can do 3 things (or at least it claims it can):
+
+1) It can package an application with all its dependencies into a shippable unit. Let's say in one word "packaging".
+2) It can manage the runtime of your application on the host system. This includes things like reloading application's configuration file, restarting your application if it stops, and collecting and storing logs produced by your application.
+3) It isolates the application from the host machine, the host machine from the application, and the application from other applications running on the system.
+
+So far so good.
+
